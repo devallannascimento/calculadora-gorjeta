@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora de Gorjeta</string>
+    <string name="txt_button_calcular">CALCULAR</string>
+    <string name="txt_hint_edit_valor">Digite o valor da conta:</string>
+    <string name="txt_titulo">Calculadora de Gorjeta</string>
+    <string name="txt_hint_edit_porcentagem">Porcentagem: 0%</string>
+    <string name="txt_gorjeta">Gorjeta: R$ 0,00</string>
+    <string name="txt_valor_total">VALOR TOTAL</string>
+</resources>
